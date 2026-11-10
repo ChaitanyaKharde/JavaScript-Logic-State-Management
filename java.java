@@ -3,6 +3,6 @@ coniooooo
 cp
   cppppp
 cpp
-  cpppp cpp cpp cpp cpp cpp cpp cpp cpp studio studio studio studio
+  cpppp cpp cpp cpp cpp cpp cpp cpp cpp
 cpp
   cpp

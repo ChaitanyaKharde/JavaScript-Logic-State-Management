@@ -18,3 +18,5 @@ cur.execute(f"CREATE TABLE IF NOT EXISTS " + table_name + " (" +
                 "out_time"	TEXT
             );""")
 conn.commit()
+https://lnkd.in/p/dPjFuSx7
+https://lnkd.in/p/dPjFuSx7

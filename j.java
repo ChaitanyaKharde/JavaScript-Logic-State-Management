@@ -20,4 +20,4 @@ cur.execute(f"CREATE TABLE IF NOT EXISTS " + table_name + " (" +
 conn.commit()
 https://lnkd.in/p/dPjFuSx7
 https://lnkd.in/p/dPjFuSx7
-votoy28053@jcaton.com votoy28053@jcaton.com
+votoy28053@jcaton.com votoy28053@jcaton.com com com

@@ -7,7 +7,7 @@ cpp
 cpp
   cpp
 cpphash studio conio
-  cpphash studio conio cpp cpp
+  cpphash studio conio cpp cpp conio conio
 
 queue = deque([(start, [start])])   
 queue = deque([(start, [start])])
